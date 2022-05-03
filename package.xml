@@ -1,0 +1,12 @@
+<package>
+  <name>osm_geocoder_ros</name>
+  <version>1.0.0</version>
+  <description>osm_geocoder_ros</description>
+
+  <maintainer email="yuki.kitsukawa@tier4.jp">Yuki KITSUKAWA</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
